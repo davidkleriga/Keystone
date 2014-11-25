@@ -1,0 +1,19 @@
+{
+  "name": "test-keystone",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "latest",
+    "keystone": "latest"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "scripts": {
+    "test": "web.js"
+  },
+  "author": "dk",
+  "license": "none"
+}
